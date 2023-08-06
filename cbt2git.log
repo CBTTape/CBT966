@@ -1,0 +1,15 @@
+2023-08-06 08:44:49.610539 - Initialized conversion of CBT966
+2023-08-06 08:44:49.708746 - Received CBT.V505.FILE966.PDS from FILE966.XMI 
+2023-08-06 08:44:49.711096 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:44:49.712095 - Found $DOC.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/$DOC
+2023-08-06 08:44:49.713103 - Found @FILE966.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/@FILE966
+2023-08-06 08:44:49.713999 - Found HLASM.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/HLASM
+2023-08-06 08:44:49.714899 - Found INSTALL.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/INSTALL
+2023-08-06 08:44:49.715716 - Found INSTALLA.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/INSTALLA
+2023-08-06 08:44:49.716518 - Found INSTALLB.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/INSTALLB
+2023-08-06 08:44:49.717337 - Found LINCLUDE.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/LINCLUDE
+2023-08-06 08:44:49.717347 - Found OBJECT.bin containing application/octet-stream, moved to PDS/OBJECT
+2023-08-06 08:44:49.727517 - Found ODT.xmi (application/xmit) in CBT.V505.FILE966.PDS
+2023-08-06 08:44:49.730740   - Received to CBT966/CBT.ODT
+2023-08-06 08:44:49.731773 - Found SOURCE.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/SOURCE
+2023-08-06 08:44:49.732633 - Found USING.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/USING
