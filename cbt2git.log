@@ -1,0 +1,15 @@
+2025-04-14 00:33:18.399529 - Received CBT.V505.FILE966.PDS from FILE966.XMI 
+2025-04-14 00:33:18.400637 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/$$$#DATE
+2025-04-14 00:33:18.400752 - Found $DOC.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/$DOC
+2025-04-14 00:33:18.400825 - Found @FILE966.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/@FILE966
+2025-04-14 00:33:18.400890 - Found HLASM.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/HLASM
+2025-04-14 00:33:18.400980 - Found INSTALL.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/INSTALL
+2025-04-14 00:33:18.401055 - Found INSTALLA.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/INSTALLA
+2025-04-14 00:33:18.401119 - Found INSTALLB.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/INSTALLB
+2025-04-14 00:33:18.401180 - Found LINCLUDE.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/LINCLUDE
+2025-04-14 00:33:18.401253 - Found OBJECT.bin (application/octet-stream) in CBT.V505.FILE966.PDS, moved to PDS/OBJECT
+2025-04-14 00:33:18.401339 - Found ODT.xmi (application/xmit) in CBT.V505.FILE966.PDS, moved to PDS/ODT.xmi
+2025-04-14 00:33:18.412356 - Received XXXXXX.HLASM.V2L4.CBT.ODT from ODT.xmi 
+2025-04-14 00:33:18.412575 - Found XXXXXX.HLASM.V2L4.CBT.ODT.odt (application/vnd.oasis.opendocument.text), moved to ODT/docs/XXXXXX.HLASM.V2L4.CBT.ODT.odt
+2025-04-14 00:33:18.412770 - Found SOURCE.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/SOURCE
+2025-04-14 00:33:18.412844 - Found USING.txt (text/plain) in CBT.V505.FILE966.PDS, moved to PDS/USING
